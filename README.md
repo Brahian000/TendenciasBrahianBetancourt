@@ -1,4 +1,4 @@
-AUTOR: Brahian betancourt
+AUTOR: Brahian Betancourt
 
 
 
