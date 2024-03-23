@@ -1,9 +1,5 @@
+Autor: Brahian betancourt
 
 
-Autor
-
-Nombre: Brahian betancourt
-
-Tecnologias Usadas
-
+TECNOLOGIAS USADAS
 Lenguaje de programacion: Python
